@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "984800194992",
+    "firebase_url": "https://seconds-logistics-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "seconds-logistics-app",
+    "storage_bucket": "seconds-logistics-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984800194992:android:90502b23627b45d4872675",
+        "android_client_info": {
+          "package_name": "com.Eliseo.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiTXMJVH_iAw-SFzPGHVdMZmFHWnvmIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984800194992:android:5a431eb0ae960494872675",
+        "android_client_info": {
+          "package_name": "com.eliseo.riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiTXMJVH_iAw-SFzPGHVdMZmFHWnvmIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984800194992:android:300ad623bf4bb1fc872675",
+        "android_client_info": {
+          "package_name": "com.eliseo.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiTXMJVH_iAw-SFzPGHVdMZmFHWnvmIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984800194992:android:a0adcf73fa28cdd7872675",
+        "android_client_info": {
+          "package_name": "com.tehuma.riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiTXMJVH_iAw-SFzPGHVdMZmFHWnvmIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984800194992-4gim4o05guiiqlm4595spv7cs72imepq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
